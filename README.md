@@ -1,1 +1,0 @@
-# eurgbp-trading-test
